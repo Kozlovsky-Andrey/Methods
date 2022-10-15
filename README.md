@@ -1,1 +1,2 @@
 "# Methods" 
+'console.log(arr);'
